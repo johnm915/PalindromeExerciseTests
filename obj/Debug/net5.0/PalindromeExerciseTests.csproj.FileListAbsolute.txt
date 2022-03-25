@@ -1,0 +1,16 @@
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.exe
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.deps.json
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.runtimeconfig.json
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.runtimeconfig.dev.json
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.dll
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\ref\PalindromeExerciseTests.dll
+C:\Users\John\repos\PalindromeExerciseTests\bin\Debug\net5.0\PalindromeExerciseTests.pdb
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.csproj.AssemblyReference.cache
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.AssemblyInfoInputs.cache
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.AssemblyInfo.cs
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.csproj.CoreCompileInputs.cache
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.dll
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\ref\PalindromeExerciseTests.dll
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.pdb
+C:\Users\John\repos\PalindromeExerciseTests\obj\Debug\net5.0\PalindromeExerciseTests.genruntimeconfig.cache
